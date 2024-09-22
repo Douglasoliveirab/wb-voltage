@@ -1,10 +1,12 @@
+import { Banner } from "./components/banner"
+import { Header } from "./components/header"
 
 function App() {
 
   return (
-    <div className="flex justify-center w-full">
-      <p className='text-black'>wbvoltage em construção</p>
-
+    <div>
+      <Header />
+      <Banner />
     </div>
   )
 }
