@@ -8,7 +8,7 @@ export const Header: React.FC = () => {
                     <a href="/">
                         <img src={imagem} alt="WbVoltage" className="w-14 h-14 rounded-full" />
                     </a>
-                    <p>WB Voltage</p>
+                    <p>WB voltage</p>
                 </div>
             </nav>
         </header>

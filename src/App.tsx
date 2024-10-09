@@ -58,11 +58,11 @@ function App() {
 
       <footer className="bg-gray-900 text-white py-4 mt-10">
         <div className="container mx-auto text-center">
-          <p className="text-sm mb-2">Wb Voltage</p>
-          <p className="text-sm mb-2">Email: contato@wbvoltagem.com.br</p>
+          <p className="text-sm mb-2">WB Voltage</p>
+          <p className="text-sm mb-2">Email: wbvoltage@gmail.com</p>
           <p className="text-sm mb-2">Telefone: (11) 1234-5678</p>
           <p className="text-sm mb-2">CNPJ: 12.345.678/0001-90</p>
-          <p className="text-sm mt-4">© 2024 Wb Voltage. Todos os direitos reservados.</p>
+          <p className="text-sm mt-4">© 2024 WB Voltage. Todos os direitos reservados.</p>
         </div>
       </footer>
 
