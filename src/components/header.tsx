@@ -6,9 +6,9 @@ export const Header: React.FC = () => {
             <nav className="container mx-auto flex justify-between items-center">
                 <div id="logotipo" className='flex gap-2 items-center'>
                     <a href="/">
-                        <img src={imagem} alt="WbVoltagem" className="w-14 h-14 rounded-full" />
+                        <img src={imagem} alt="WbVoltage" className="w-14 h-14 rounded-full" />
                     </a>
-                    <p>WB Voltagem</p>
+                    <p>WB Voltage</p>
                 </div>
             </nav>
         </header>

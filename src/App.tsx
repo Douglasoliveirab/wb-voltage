@@ -29,7 +29,7 @@ function App() {
 
       <div className="px-4 py-8 text-center">
         <p className="text-lg font-medium text-gray-700 mb-6 max-w-3xl mx-auto leading-relaxed">
-          A Wb Voltagem tem mais de 7 anos de experiência no mercado de Tratamento e Filtragem de Óleo, Locação e Venda de 
+          A Wb Voltage tem mais de 7 anos de experiência no mercado de Tratamento e Filtragem de Óleo, Locação e Venda de 
           Termovácuo, e Manutenção de Cabine Primária.
         </p>
 
@@ -53,17 +53,17 @@ function App() {
       <div className="px-4 py-8 text-center bg-gray-100">
         <h2 className="text-xl font-bold text-gray-800 mb-4">Sobre Nós</h2>
         <p className="text-base text-gray-700 max-w-2xl mx-auto leading-relaxed">
-          Na Wb Voltagem, estamos comprometidos com a excelência e a qualidade nos serviços que oferecemos. Nossa equipe é formada por profissionais altamente capacitados, prontos para atender a todas as suas necessidades em tratamento e filtragem de óleo, garantindo a máxima eficiência e segurança em todos os processos.
+          Na Wb Voltage, estamos comprometidos com a excelência e a qualidade nos serviços que oferecemos. Nossa equipe é formada por profissionais altamente capacitados, prontos para atender a todas as suas necessidades em tratamento e filtragem de óleo, garantindo a máxima eficiência e segurança em todos os processos.
         </p>
       </div>
 
       <footer className="bg-gray-900 text-white py-4 mt-10">
         <div className="container mx-auto text-center">
-          <p className="text-sm mb-2">Wb Voltagem</p>
+          <p className="text-sm mb-2">Wb Voltage</p>
           <p className="text-sm mb-2">Email: contato@wbvoltagem.com.br</p>
           <p className="text-sm mb-2">Telefone: (11) 1234-5678</p>
           <p className="text-sm mb-2">CNPJ: 12.345.678/0001-90</p>
-          <p className="text-sm mt-4">© 2024 Wb Voltagem. Todos os direitos reservados.</p>
+          <p className="text-sm mt-4">© 2024 Wb Voltage. Todos os direitos reservados.</p>
         </div>
       </footer>
 
