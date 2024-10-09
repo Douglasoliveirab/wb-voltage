@@ -58,16 +58,16 @@ function App() {
 
       <footer className="bg-gray-900 text-white py-4 mt-10">
         <div className="container mx-auto text-center">
-          <p className="text-sm mb-2">WB Voltage</p>
+          <p className="text-sm mb-2">WB voltage</p>
           <p className="text-sm mb-2">Email: wbvoltage@gmail.com</p>
-          <p className="text-sm mb-2">Telefone: (11) 1234-5678</p>
+          <p className="text-sm mb-2">Telefone: (11) 98250-6224</p>
           <p className="text-sm mb-2">CNPJ: 12.345.678/0001-90</p>
-          <p className="text-sm mt-4">© 2024 WB Voltage. Todos os direitos reservados.</p>
+          <p className="text-sm mt-4">© 2024 WB voltage. Todos os direitos reservados.</p>
         </div>
       </footer>
 
       <a
-        href="https://wa.me/5511982506224?text=Olá, estou interessado em saber mais sobre os serviços da Wb Voltagem. Poderiam me ajudar?"
+        href="https://wa.me/5511982506224?text=Olá, estou interessado em saber mais sobre os serviços da WB voltage. Poderiam me ajudar?"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-5 right-5 bg-green-500 text-white rounded-full p-3 shadow-lg transition-transform transform hover:scale-110"
