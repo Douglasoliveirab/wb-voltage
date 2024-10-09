@@ -29,7 +29,7 @@ function App() {
 
       <div className="px-4 py-8 text-center">
         <p className="text-lg font-medium text-gray-700 mb-6 max-w-3xl mx-auto leading-relaxed">
-          A Wb Voltage tem mais de 7 anos de experiência no mercado de Tratamento e Filtragem de Óleo, Locação e Venda de 
+          A Wb Voltage tem mais de 7 anos de experiência no mercado de Tratamento e Filtragem de Óleo, Locação e Venda de
           Termovácuo, e Manutenção de Cabine Primária.
         </p>
 
@@ -49,7 +49,6 @@ function App() {
         </div>
       </div>
 
-      {/* Nova seção descritiva */}
       <div className="px-4 py-8 text-center bg-gray-100">
         <h2 className="text-xl font-bold text-gray-800 mb-4">Sobre Nós</h2>
         <p className="text-base text-gray-700 max-w-2xl mx-auto leading-relaxed">
@@ -68,13 +67,14 @@ function App() {
       </footer>
 
       <a
-        href="https://wa.me/5511987654321" 
+        href="https://wa.me/5511982506224?text=Olá, estou interessado em saber mais sobre os serviços da Wb Voltagem. Poderiam me ajudar?"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-5 right-5 bg-green-500 text-white rounded-full p-3 shadow-lg transition-transform transform hover:scale-110"
       >
         <FaWhatsapp size={28} />
       </a>
+
     </div>
   );
 }
