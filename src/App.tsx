@@ -18,7 +18,7 @@ function App() {
     { name: "SPDA", img: imgSpda },
     { name: "Inspeção Termográfica", img: imgInsp },
     { name: "Laudos", img: imgLaudos },
-    { name: "Tranformadores", img: imgTransformadores },
+    { name: "Transformadores", img: imgTransformadores },
     { name: "Banco de Capacitor", img: imgBancoCap },
   ];
 
