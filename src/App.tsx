@@ -64,7 +64,7 @@ function App() {
           <p className="text-sm mb-2">Email: wbvoltage@gmail.com</p>
           <p className="text-sm mb-2">Telefone: (11) 98250-6224</p>
           <p className="text-sm mb-2">CNPJ: 34.983.039/0001-98</p>
-          <p className="text-sm mt-4">© 2024 WB voltage. Todos os direitos reservados.</p>
+          <p className="text-sm mt-4">© 2025 WB voltage. Todos os direitos reservados.</p>
         </div>
       </footer>
 
